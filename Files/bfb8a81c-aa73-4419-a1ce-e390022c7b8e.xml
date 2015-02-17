@@ -1,4 +1,3 @@
-#UCI
 <sdp:SoftwareDistributionPackage 
  xmlns="http://www.w3.org/2001/XMLSchema"
  xmlns:bar="http://schemas.microsoft.com/wsus/2005/04/CorporatePublishing/BaseApplicabilityRules.xsd"
